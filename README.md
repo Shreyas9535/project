@@ -1,0 +1,1 @@
+Analyzing bank data to enhance operational efficiency, detect fraud , and improve customer experience through predictive modeling , exploratory data analysis, and continuous monitoring for actionable insights and informed decision-making.
